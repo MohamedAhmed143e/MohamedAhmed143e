@@ -14,11 +14,11 @@ Hi, I'm <strong>Mohamed Ahmed</strong>, a Computer Science student 👨🏻‍�
 - 💻 Currently diving into **C++**.
 - 🚀 I'm passionate about problem solving, tech, and improving my coding skills every day.
 - 🧠 Always curious and eager to learn new technologies.
-- 🎯 My goal is to become a professional software developer in the future.
+- 🎯 My goal is to become a professional cybersecurity engineer in the future.
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="400"/>
+
 
 ### 📫 How to reach me:
 - Email: [your.email@example.com](mailto:your.email@example.com)
