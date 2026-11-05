@@ -14,8 +14,8 @@ Hi, I'm <strong>Mohamed Ahmed</strong>, 🌱Computer Science student with a grow
 
 
 ### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:mohamed.hussen0131@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/mohamed-albaron)
+-- Email: [mohamed.hussen0131@gmail.com](mailto:mohamed.hussen0131@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-albaron)
 
 ---
 
