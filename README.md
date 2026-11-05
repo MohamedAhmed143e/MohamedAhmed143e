@@ -8,14 +8,7 @@
 
 <br>
 
-Hi, I'm <strong>Mohamed Ahmed</strong>, a Computer Science student 👨🏻‍💻 currently learning and exploring the world of programming.
-
-- 🌱 I’ve learned the basics of **Python**.
-- 💻 Currently diving into **C++**.
-- 🚀 I'm passionate about problem solving, tech, and improving my coding skills every day.
-- 🧠 Always curious and eager to learn new technologies.
-- 🎯 My goal is to become a professional cybersecurity engineer in the future.
-
+Hi, I'm <strong>Mohamed Ahmed</strong>, 🌱Computer Science student with a growing foundation in Python programming, data analysis, and machine learning concepts. Interested in developing practical AI and Machine Learning solutions through hands-on projects. Currently strengthening programming, data preprocessing, and analytical skills while seeking an AI / Machine Learning internship to gain real-world experience and contribute to technical projects
 <br>
 
 
